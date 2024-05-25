@@ -6,7 +6,7 @@
 
 
 .container__app{
-  background-image: url("image/halo.jpg");
+  background-image: url("./image/halo.jpg");
   background-position: center;
   background-size: cover;
   width: 100%;
